@@ -1,0 +1,2 @@
+# easy-connect
+nuxt version
